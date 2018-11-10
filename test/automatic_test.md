@@ -6,10 +6,11 @@
    - Thực hiện các test khó, đặc biệt mà bình thường test thủ không làm dược (vd test hiệu nang)
 - Nguyên lý, phương pháp:
 Các phần mềm viết ra automatic test thường dựa vào 2 phuơng pháp sau:
-   - Graphical user interface testing: Tool se biểu hiện ra ra các user interface events, tức các việc go phím click chuột, thường dùng đe test dến các user case người dùng cuối
-   - API driven testing: sư dụm programming interface, có the dùng cả cho test về  functionality, reliability, performance, và security cho các class, thu viện, module.
-https://www.logigear.com/magazine/survey/survey-results-test-automation/
+   - Graphical user interface testing: Tool sẽ biểu hiện ra ra các user interface events, tức các việc go phím click chuột, thường dùng để test dến các user case người dùng cuối
+   - API driven testing: sử dụm programming interface, tester có thể dùng cả cho test về functionality, reliability, performance, và security cho các class, thư viện, module.
+</br>![](https://github.com/ngohoa211/theory_of_project_management/blob/master/test/image/layer.png)
 - Lĩnh vực cần dùng dến automatic test
 </br>![](https://github.com/ngohoa211/theory_of_project_management/blob/master/test/image/area.png)
+</br>(theo các khảo sát tại https://www.logigear.com/magazine/survey/survey-results-test-automation/)
 
 
