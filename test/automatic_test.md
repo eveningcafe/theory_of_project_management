@@ -12,6 +12,6 @@ https://www.logigear.com/magazine/survey/survey-results-test-automation/
 - Ai cần viết automatic test:
 - Lĩnh vực cần dùng dến automatic test
 
-![](../image/area.png])
+![](../image/area.png)
 
 
